@@ -1,0 +1,4 @@
+<? 
+return [
+    'halloworld' => 'Hallo Welt',
+];
